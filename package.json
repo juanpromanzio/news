@@ -16,7 +16,7 @@
     "he": "^1.2.0",
     "node-html-parser": "^1.2.4",
     "ramda": "^0.27.0",
-    "terminal-kit": "^1.32.3"
+    "terminal-kit": "^2.1.8"
   },
   "devDependencies": {}
 }
